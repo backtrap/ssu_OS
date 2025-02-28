@@ -1,0 +1,2 @@
+ 1. .c 파일 만들기
+ 2. Makefile에서 UPROGS, EXTRA 부분 수정
