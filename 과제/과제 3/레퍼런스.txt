@@ -1,0 +1,2 @@
+[Ubuntu XV6] xv6 Priority Scheduler
+https://blog.naver.com/igun0423/222931653980

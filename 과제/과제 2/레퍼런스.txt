@@ -1,0 +1,10 @@
+(마이그레이션) 네트워크프로그래밍 / XV6 과제 시리즈
+https://99uulog.tistory.com/20
+
+
+[Ubuntu XV6] forknexec() 시스템 콜 구현 및 추가
+https://blog.naver.com/igun0423/222900623660
+
+
+xv6 - System Call & Traps
+https://yohda.tistory.com/entry/xv6-Traps-interrupts-and-drivers

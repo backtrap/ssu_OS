@@ -1,0 +1,27 @@
+[XV-6 운영체제] Copy-on-Write #1
+https://hyeo-noo.tistory.com/83
+
+
+[XV-6 운영체제] Copy-on-Write #2 구현
+https://hyeo-noo.tistory.com/85
+
+
+xv6
+https://www.scribd.com/document/408116995/Xv6
+
+
+copy-on-write-xv6
+/testcow.c
+https://github.com/agarwl/copy-on-write-xv6/blob/master/testcow.c
+
+
+[Ubuntu XV6] forknexec() 시스템 콜 구현 및 추가
+https://blog.naver.com/igun0423/222900623660
+
+
+agarwl
+/
+copy-on-write-xv6
+https://github.com/agarwl/copy-on-write-xv6
+[OS] xv6 - Project 4. Virtual memory (SKKU)
+https://velog.io/@tlqwkrk4471/OS-xv6-Project-4.-Virtual-memory
